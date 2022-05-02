@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+KAMARUBOTAK+WA+BOT+REPO.;CREATED+BY+AMEER+SUHAIL;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+PIKACHU+WA+BOT+REPO.;CREATED+BY+AMEER+SUHAIL;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/SoIxkUE.jpeg" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="KAMARUBOTAK" src="https://img.shields.io/badge/KAMARUBOTAK-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/kamaruakbot"><img title="Author" src="https://img.shields.io/badge/Author-AmeerSuhail-0/KAMARUBOTAK?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-AmeerSuhail-0/Pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/kamaruakbot">kamaruakbot</a> to make it public
+Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
     <br>
        | © |
         Reserved |
@@ -26,9 +26,9 @@ Project created by <a href="https://github.com/kamaruakbot">kamaruakbot</a> to m
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@kamaruakbot/KAMARUBOTAK-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ameer-kallumthodi/Pikachu-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kamaruakbot/KAMARUBOTAK)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -45,9 +45,9 @@ bash <(curl -L https://t.ly/tHxh)
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/kamaruakbot/KAMARUBOTAK/fork)
+ Click [FORK](https://github.com/ameer-kallumthodi/pikachu/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/kamaruakbot/KAMARUBOTAK copy this url and change kamaruakbot with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu copy this url and change ameer-kallumthodi with your github username and click go<br>
 
 ----
 
@@ -61,9 +61,9 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/kamaruakbot/KAMARUBOTAK">
+  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
 <p align="center">
-<a href="https://github.com/kamaruakbot/followers"><img title="Followers" src="https://img.shields.io/github/followers/kamaruakbot?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=Magenta&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -81,8 +81,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/kamaruakbot/KAMARUBOTAK
-$ cd KAMARUBOTAK
+$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -91,8 +91,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/kamaruakbot/KAMARUBOTAK
-$ cd KAMARUBOTAK
+$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ cd pikachu
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -112,9 +112,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Ameer Suhail`](https://github.com/kamaruakbot.png?size=200)](https://github.com/kamaruakbot)
+  [![`Ameer Suhail`](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/ameer-kallumthodi)
 
-[`Ameer Suhail`](https://github.com/kamaruakbot)  
+[`Ameer Suhail`](https://github.com/ameer-kallumthodi)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
